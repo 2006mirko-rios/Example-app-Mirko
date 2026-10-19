@@ -19,7 +19,7 @@ Verifica que tengas todo instalado antes de empezar:
 ### 1. Clonar el repositorio
 
 ```bash
-https://github.com/RedyDelgado/exmaple-app.git
+git clone https://github.com/RedyDelgado/exmaple-app.git
 cd example-ap
 ```
 
